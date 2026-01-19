@@ -1,0 +1,485 @@
+{
+  "generated_at": "2026-01-19T00:18:34.874736",
+  "site_id": "site-2f3f7a5ce896",
+  "cloudflare_enabled": true,
+  "images": {
+    "pages": [
+      {
+        "id": "b8cce092-d37e-4304-f304-fe8ac110d000",
+        "filename": "professional-business-leader.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/b8cce092-d37e-4304-f304-fe8ac110d000/public",
+        "category": "pages",
+        "uploaded_at": "2026-01-19T00:17:31.979597",
+        "metadata": {
+          "alt": "Confident Business Leader in Professional Setting - business site",
+          "placeholder": "IMAGE_PLACEHOLDER:hero-bg",
+          "block": "Hero01",
+          "type": "hero-bg",
+          "folder": "pages",
+          "filename": "professional-business-leader.jpg"
+        }
+      },
+      {
+        "id": "f6c6d01a-340b-456b-a7fd-92a533468900",
+        "filename": "market-trends.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/f6c6d01a-340b-456b-a7fd-92a533468900/public",
+        "category": "pages",
+        "uploaded_at": "2026-01-19T00:17:31.406922",
+        "metadata": {
+          "alt": "Market Trends - business site",
+          "placeholder": "IMAGE_PLACEHOLDER:bento-0",
+          "block": "BentoGrid01",
+          "type": "bento-0",
+          "folder": "pages",
+          "filename": "market-trends.jpg"
+        }
+      },
+      {
+        "id": "de4bbafe-d49f-4548-69db-9b1bb1985100",
+        "filename": "startup-guides.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/de4bbafe-d49f-4548-69db-9b1bb1985100/public",
+        "category": "pages",
+        "uploaded_at": "2026-01-19T00:17:31.834812",
+        "metadata": {
+          "alt": "Startup Guides - business site",
+          "placeholder": "IMAGE_PLACEHOLDER:bento-1",
+          "block": "BentoGrid01",
+          "type": "bento-1",
+          "folder": "pages",
+          "filename": "startup-guides.jpg"
+        }
+      },
+      {
+        "id": "b76b41cb-7f6b-4394-29c0-622ff8510d00",
+        "filename": "financial-management.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/b76b41cb-7f6b-4394-29c0-622ff8510d00/public",
+        "category": "pages",
+        "uploaded_at": "2026-01-19T00:17:32.203125",
+        "metadata": {
+          "alt": "Financial Management - business site",
+          "placeholder": "IMAGE_PLACEHOLDER:bento-2",
+          "block": "BentoGrid01",
+          "type": "bento-2",
+          "folder": "pages",
+          "filename": "financial-management.jpg"
+        }
+      },
+      {
+        "id": "622b544a-46c6-4e13-bc7c-2e0cebd00500",
+        "filename": "leadership-culture.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/622b544a-46c6-4e13-bc7c-2e0cebd00500/public",
+        "category": "pages",
+        "uploaded_at": "2026-01-19T00:17:32.305674",
+        "metadata": {
+          "alt": "Leadership & Culture - business site",
+          "placeholder": "IMAGE_PLACEHOLDER:bento-3",
+          "block": "BentoGrid01",
+          "type": "bento-3",
+          "folder": "pages",
+          "filename": "leadership-culture.jpg"
+        }
+      },
+      {
+        "id": "762ac51e-a8c3-43e9-af7b-96794b29a800",
+        "filename": "business-district-skyline.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/762ac51e-a8c3-43e9-af7b-96794b29a800/public",
+        "category": "pages",
+        "uploaded_at": "2026-01-19T00:17:40.296881",
+        "metadata": {
+          "alt": "Bustling Business District Skyline at Golden Hour - business site",
+          "placeholder": "IMAGE_PLACEHOLDER:header-bg",
+          "block": "Header01",
+          "type": "header-bg",
+          "folder": "pages",
+          "filename": "business-district-skyline.jpg"
+        }
+      },
+      {
+        "id": "ffec7f02-3f78-47ae-dcd8-182e88b8a600",
+        "filename": "comprehensive-business-data.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/ffec7f02-3f78-47ae-dcd8-182e88b8a600/public",
+        "category": "pages",
+        "uploaded_at": "2026-01-19T00:17:37.635316",
+        "metadata": {
+          "alt": "Comprehensive Business Data - business site",
+          "placeholder": "IMAGE_PLACEHOLDER:bento-0",
+          "block": "BentoGrid02",
+          "type": "bento-0",
+          "folder": "pages",
+          "filename": "comprehensive-business-data.jpg"
+        }
+      },
+      {
+        "id": "4d4d3c03-a3d0-4af5-fee1-cae863d44600",
+        "filename": "latest-industry-trends.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/4d4d3c03-a3d0-4af5-fee1-cae863d44600/public",
+        "category": "pages",
+        "uploaded_at": "2026-01-19T00:17:37.838768",
+        "metadata": {
+          "alt": "Latest Industry Trends - business site",
+          "placeholder": "IMAGE_PLACEHOLDER:bento-1",
+          "block": "BentoGrid02",
+          "type": "bento-1",
+          "folder": "pages",
+          "filename": "latest-industry-trends.jpg"
+        }
+      },
+      {
+        "id": "5615bab0-596a-4f96-ed3c-d973a50dd900",
+        "filename": "detailed-business-profiles.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/5615bab0-596a-4f96-ed3c-d973a50dd900/public",
+        "category": "pages",
+        "uploaded_at": "2026-01-19T00:17:38.554819",
+        "metadata": {
+          "alt": "Detailed Business Profiles - business site",
+          "placeholder": "IMAGE_PLACEHOLDER:bento-2",
+          "block": "BentoGrid02",
+          "type": "bento-2",
+          "folder": "pages",
+          "filename": "detailed-business-profiles.jpg"
+        }
+      },
+      {
+        "id": "9e442cfc-fcdd-4220-fa9b-b4c27858e600",
+        "filename": "strategic-market-insights.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/9e442cfc-fcdd-4220-fa9b-b4c27858e600/public",
+        "category": "pages",
+        "uploaded_at": "2026-01-19T00:17:38.624465",
+        "metadata": {
+          "alt": "Strategic Market Insights - business site",
+          "placeholder": "IMAGE_PLACEHOLDER:bento-3",
+          "block": "BentoGrid02",
+          "type": "bento-3",
+          "folder": "pages",
+          "filename": "strategic-market-insights.jpg"
+        }
+      },
+      {
+        "id": "753bec1f-6cb5-4d72-cb5c-87f3635a7600",
+        "filename": "essential-business-resources.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/753bec1f-6cb5-4d72-cb5c-87f3635a7600/public",
+        "category": "pages",
+        "uploaded_at": "2026-01-19T00:17:39.144928",
+        "metadata": {
+          "alt": "Essential Business Resources - business site",
+          "placeholder": "IMAGE_PLACEHOLDER:bento-4",
+          "block": "BentoGrid02",
+          "type": "bento-4",
+          "folder": "pages",
+          "filename": "essential-business-resources.jpg"
+        }
+      },
+      {
+        "id": "b846344f-4884-4c78-4885-4d3d06a24400",
+        "filename": "business-skyline-sunset.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/b846344f-4884-4c78-4885-4d3d06a24400/public",
+        "category": "pages",
+        "uploaded_at": "2026-01-19T00:17:41.288731",
+        "metadata": {
+          "alt": "Bustling City Skyline at Sunset - business site",
+          "placeholder": "IMAGE_PLACEHOLDER:background",
+          "block": "Cta02",
+          "type": "background",
+          "folder": "pages",
+          "filename": "business-skyline-sunset.jpg"
+        }
+      },
+      {
+        "id": "02b477ec-f6b9-4a54-51db-1a57780baf00",
+        "filename": "top-business-strategies-for-2024.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/02b477ec-f6b9-4a54-51db-1a57780baf00/public",
+        "category": "pages",
+        "uploaded_at": "2026-01-19T00:17:51.471804",
+        "metadata": {
+          "alt": "Top Business Strategies for 2024 - business site",
+          "placeholder": "IMAGE_PLACEHOLDER:gallery-0",
+          "block": "BlogFeatured01",
+          "type": "gallery-0",
+          "folder": "pages",
+          "filename": "top-business-strategies-for-2024.jpg"
+        }
+      },
+      {
+        "id": "fef71009-3ac4-4358-ccaa-eeb23f678100",
+        "filename": "entrepreneurship-basics-building-your-startup.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/fef71009-3ac4-4358-ccaa-eeb23f678100/public",
+        "category": "pages",
+        "uploaded_at": "2026-01-19T00:17:48.110097",
+        "metadata": {
+          "alt": "Entrepreneurship Basics: Building Your Startup - business site",
+          "placeholder": "IMAGE_PLACEHOLDER:gallery-1",
+          "block": "BlogFeatured01",
+          "type": "gallery-1",
+          "folder": "pages",
+          "filename": "entrepreneurship-basics-building-your-startup.jpg"
+        }
+      },
+      {
+        "id": "8a374aed-d048-4a1a-c153-5e1a6491ea00",
+        "filename": "financial-planning-for-small-businesses.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/8a374aed-d048-4a1a-c153-5e1a6491ea00/public",
+        "category": "pages",
+        "uploaded_at": "2026-01-19T00:17:48.136467",
+        "metadata": {
+          "alt": "Financial Planning for Small Businesses - business site",
+          "placeholder": "IMAGE_PLACEHOLDER:gallery-2",
+          "block": "BlogFeatured01",
+          "type": "gallery-2",
+          "folder": "pages",
+          "filename": "financial-planning-for-small-businesses.jpg"
+        }
+      },
+      {
+        "id": "fb354ce1-1931-4622-eeb3-b66beb970e00",
+        "filename": "effective-marketing-in-the-digital-age.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/fb354ce1-1931-4622-eeb3-b66beb970e00/public",
+        "category": "pages",
+        "uploaded_at": "2026-01-19T00:17:52.079221",
+        "metadata": {
+          "alt": "Effective Marketing in the Digital Age - business site",
+          "placeholder": "IMAGE_PLACEHOLDER:gallery-3",
+          "block": "BlogFeatured01",
+          "type": "gallery-3",
+          "folder": "pages",
+          "filename": "effective-marketing-in-the-digital-age.jpg"
+        }
+      },
+      {
+        "id": "ad98f2be-d086-4339-4217-8082d4f50f00",
+        "filename": "developing-leadership-skills-for-managers.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/ad98f2be-d086-4339-4217-8082d4f50f00/public",
+        "category": "pages",
+        "uploaded_at": "2026-01-19T00:17:47.323832",
+        "metadata": {
+          "alt": "Developing Leadership Skills for Managers - business site",
+          "placeholder": "IMAGE_PLACEHOLDER:gallery-4",
+          "block": "BlogFeatured01",
+          "type": "gallery-4",
+          "folder": "pages",
+          "filename": "developing-leadership-skills-for-managers.jpg"
+        }
+      },
+      {
+        "id": "8f868097-9c6d-4b49-785f-00fb73d3f500",
+        "filename": "fostering-innovation-in-your-business.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/8f868097-9c6d-4b49-785f-00fb73d3f500/public",
+        "category": "pages",
+        "uploaded_at": "2026-01-19T00:17:51.664196",
+        "metadata": {
+          "alt": "Fostering Innovation in Your Business - business site",
+          "placeholder": "IMAGE_PLACEHOLDER:gallery-5",
+          "block": "BlogFeatured01",
+          "type": "gallery-5",
+          "folder": "pages",
+          "filename": "fostering-innovation-in-your-business.jpg"
+        }
+      },
+      {
+        "id": "800093e2-0215-46cf-8e1e-59319c00b100",
+        "filename": "top-business-strategies-for-2024.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/800093e2-0215-46cf-8e1e-59319c00b100/public",
+        "category": "pages",
+        "uploaded_at": "2026-01-19T00:17:46.425086",
+        "metadata": {
+          "alt": "Top Business Strategies for 2024 - business site",
+          "placeholder": "IMAGE_PLACEHOLDER:blog-0",
+          "block": "BlogGrid01",
+          "type": "blog-0",
+          "folder": "pages",
+          "filename": "top-business-strategies-for-2024.jpg"
+        }
+      },
+      {
+        "id": "c0c01c72-2435-4712-4b6f-24b3a938d900",
+        "filename": "top-business-strategies-for-2024.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/c0c01c72-2435-4712-4b6f-24b3a938d900/public",
+        "category": "pages",
+        "uploaded_at": "2026-01-19T00:17:47.786183",
+        "metadata": {
+          "alt": "Top Business Strategies for 2024 - business site",
+          "placeholder": "IMAGE_PLACEHOLDER:avatar-0",
+          "block": "BlogGrid01",
+          "type": "avatar-0",
+          "folder": "pages",
+          "filename": "top-business-strategies-for-2024.jpg"
+        }
+      },
+      {
+        "id": "199354a2-cd66-41e4-58c5-114c95886400",
+        "filename": "entrepreneurship-fundamentals.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/199354a2-cd66-41e4-58c5-114c95886400/public",
+        "category": "pages",
+        "uploaded_at": "2026-01-19T00:17:47.633501",
+        "metadata": {
+          "alt": "Entrepreneurship Fundamentals - business site",
+          "placeholder": "IMAGE_PLACEHOLDER:blog-1",
+          "block": "BlogGrid01",
+          "type": "blog-1",
+          "folder": "pages",
+          "filename": "entrepreneurship-fundamentals.jpg"
+        }
+      },
+      {
+        "id": "917ef7cd-9517-449f-bcf4-f43f9c752a00",
+        "filename": "entrepreneurship-fundamentals.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/917ef7cd-9517-449f-bcf4-f43f9c752a00/public",
+        "category": "pages",
+        "uploaded_at": "2026-01-19T00:17:47.946334",
+        "metadata": {
+          "alt": "Entrepreneurship Fundamentals - business site",
+          "placeholder": "IMAGE_PLACEHOLDER:avatar-1",
+          "block": "BlogGrid01",
+          "type": "avatar-1",
+          "folder": "pages",
+          "filename": "entrepreneurship-fundamentals.jpg"
+        }
+      },
+      {
+        "id": "05c80fe5-9765-494a-4cb8-838fc925bc00",
+        "filename": "marketing-in-the-digital-age.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/05c80fe5-9765-494a-4cb8-838fc925bc00/public",
+        "category": "pages",
+        "uploaded_at": "2026-01-19T00:17:47.384457",
+        "metadata": {
+          "alt": "Marketing in the Digital Age - business site",
+          "placeholder": "IMAGE_PLACEHOLDER:blog-2",
+          "block": "BlogGrid01",
+          "type": "blog-2",
+          "folder": "pages",
+          "filename": "marketing-in-the-digital-age.jpg"
+        }
+      },
+      {
+        "id": "362bd3b9-f726-4e80-b33b-4cfa8283a500",
+        "filename": "marketing-in-the-digital-age.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/362bd3b9-f726-4e80-b33b-4cfa8283a500/public",
+        "category": "pages",
+        "uploaded_at": "2026-01-19T00:17:48.897978",
+        "metadata": {
+          "alt": "Marketing in the Digital Age - business site",
+          "placeholder": "IMAGE_PLACEHOLDER:avatar-2",
+          "block": "BlogGrid01",
+          "type": "avatar-2",
+          "folder": "pages",
+          "filename": "marketing-in-the-digital-age.jpg"
+        }
+      },
+      {
+        "id": "0911012e-a612-4bc0-8e85-41c224a35300",
+        "filename": "financial-management-basics.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/0911012e-a612-4bc0-8e85-41c224a35300/public",
+        "category": "pages",
+        "uploaded_at": "2026-01-19T00:17:48.642308",
+        "metadata": {
+          "alt": "Financial Management Basics - business site",
+          "placeholder": "IMAGE_PLACEHOLDER:blog-3",
+          "block": "BlogGrid01",
+          "type": "blog-3",
+          "folder": "pages",
+          "filename": "financial-management-basics.jpg"
+        }
+      },
+      {
+        "id": "77f8cd59-e5b0-4dd9-c3c8-7e33daadca00",
+        "filename": "financial-management-basics.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/77f8cd59-e5b0-4dd9-c3c8-7e33daadca00/public",
+        "category": "pages",
+        "uploaded_at": "2026-01-19T00:17:49.511345",
+        "metadata": {
+          "alt": "Financial Management Basics - business site",
+          "placeholder": "IMAGE_PLACEHOLDER:avatar-3",
+          "block": "BlogGrid01",
+          "type": "avatar-3",
+          "folder": "pages",
+          "filename": "financial-management-basics.jpg"
+        }
+      },
+      {
+        "id": "22ad185f-4623-4d00-98a8-450ed8e45900",
+        "filename": "developing-leadership-skills.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/22ad185f-4623-4d00-98a8-450ed8e45900/public",
+        "category": "pages",
+        "uploaded_at": "2026-01-19T00:17:47.730419",
+        "metadata": {
+          "alt": "Developing Leadership Skills - business site",
+          "placeholder": "IMAGE_PLACEHOLDER:blog-4",
+          "block": "BlogGrid01",
+          "type": "blog-4",
+          "folder": "pages",
+          "filename": "developing-leadership-skills.jpg"
+        }
+      },
+      {
+        "id": "59397078-3d16-47c5-f156-cdd4aef39600",
+        "filename": "developing-leadership-skills.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/59397078-3d16-47c5-f156-cdd4aef39600/public",
+        "category": "pages",
+        "uploaded_at": "2026-01-19T00:17:46.606418",
+        "metadata": {
+          "alt": "Developing Leadership Skills - business site",
+          "placeholder": "IMAGE_PLACEHOLDER:avatar-4",
+          "block": "BlogGrid01",
+          "type": "avatar-4",
+          "folder": "pages",
+          "filename": "developing-leadership-skills.jpg"
+        }
+      }
+    ],
+    "blog": [
+      {
+        "id": "1c155ccc-2d15-4a88-66be-13fbfdbda300",
+        "filename": "author-avatar.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/1c155ccc-2d15-4a88-66be-13fbfdbda300/public",
+        "category": "blog",
+        "uploaded_at": "2026-01-19T00:17:55.671020",
+        "metadata": {
+          "type": "author",
+          "site": "business site",
+          "folder": "blog",
+          "filename": "author-avatar.jpg"
+        }
+      },
+      {
+        "id": "a58cbcf2-5731-42fa-ba20-2f2d51812600",
+        "filename": "10-essential-tips-for-launching-a-successful-business-in-2024.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/a58cbcf2-5731-42fa-ba20-2f2d51812600/public",
+        "category": "blog",
+        "uploaded_at": "2026-01-19T00:18:33.844244",
+        "metadata": {
+          "type": "article_cover",
+          "article": "10-essential-tips-for-launching-a-successful-business-in-2024",
+          "title": "10 Essential Tips for Launching a Successful Business in 2024",
+          "folder": "blog",
+          "filename": "10-essential-tips-for-launching-a-successful-business-in-2024.jpg"
+        }
+      },
+      {
+        "id": "948e8dab-bbc6-428b-9086-358078793700",
+        "filename": "boost-your-business-essential-tips-for-entrepreneurs.jpg",
+        "url": "https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/948e8dab-bbc6-428b-9086-358078793700/public",
+        "category": "blog",
+        "uploaded_at": "2026-01-19T00:18:32.451375",
+        "metadata": {
+          "type": "article_cover",
+          "article": "boost-your-business-essential-tips-for-entrepreneurs",
+          "title": "Boost Your Business: Essential Tips for Entrepreneurs",
+          "folder": "blog",
+          "filename": "boost-your-business-essential-tips-for-entrepreneurs.jpg"
+        }
+      }
+    ],
+    "logo": [],
+    "protected": [
+      "favicon.svg",
+      "favicon.ico",
+      "favicon-16x16.png",
+      "favicon-32x32.png",
+      "android-chrome-192x192.png",
+      "android-chrome-512x512.png",
+      "apple-touch-icon.png",
+      "icon-192x192.png",
+      "icon-512x512.png",
+      "site.webmanifest"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+---
+import Layout from '../layouts/Layout.astro';
+import J6e69d0 from '../components/modules/J6e69d0.tsx';
+import N1b8993 from '../components/modules/N1b8993.tsx';
+import C4029 from '../components/modules/C4029.tsx';
+import L108dc from '../components/modules/L108dc.tsx';
+import D0acc17 from '../components/modules/D0acc17.tsx';
+import X30e8 from '../components/modules/X30e8.tsx';
+const schemaData = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://sellyourstufftoday.bid/#website",
+      "url": "https://sellyourstufftoday.bid",
+      "name": "business site",
+      "description": "A site that deals with information about businesses",
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://sellyourstufftoday.bid/#organization",
+      "name": "business site",
+      "url": "https://sellyourstufftoday.bid",
+      "description": "A site that deals with information about businesses"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://sellyourstufftoday.bid#webpage",
+      "url": "https://sellyourstufftoday.bid",
+      "name": "Business Information Hub | Expert Insights",
+      "description": "Discover valuable business information at Business Site. Get expert insights, tips, and resources to grow your business effectively.",
+      "isPartOf": {
+        "@id": "https://sellyourstufftoday.bid/#website"
+      },
+      "about": {
+        "@id": "https://sellyourstufftoday.bid/#organization"
+      },
+      "inLanguage": "en-US"
+    }
+  ]
+};
+
+---
+
+<Layout
+  
+  title="Business Information Hub | Expert Insights"
+  description="Discover valuable business information at Business Site. Get expert insights, tips, and resources to grow your business effectively."
+  keywords={["business information", "business insights", "entrepreneurial tips", "business resources", "industry knowledge"]}
+  ogTitle="Business Site - Your Go-To for Business Info"
+  ogDescription="Explore comprehensive business information and strategies to elevate your entrepreneurial journey. Join thousands learning today!"
+  ogImage="https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/05c80fe5-9765-494a-4cb8-838fc925bc00/public"
+  canonical="https://sellyourstufftoday.bid/"
+  schema={schemaData}
+>
+  <J6e69d0 client:load currentPath="/" activeLinkStyle="background" transition:persist="nav" />
+  <N1b8993 client:load />
+  <C4029 client:load />
+  <L108dc client:load />
+  <D0acc17 client:load />
+  <X30e8 client:load transition:persist="footer" />
+</Layout>

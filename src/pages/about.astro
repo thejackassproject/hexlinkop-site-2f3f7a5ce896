@@ -1,0 +1,80 @@
+---
+import Layout from '../layouts/Layout.astro';
+import J6e69d0 from '../components/modules/J6e69d0.tsx';
+import F6c5f from '../components/modules/F6c5f.tsx';
+import Dfac6a2 from '../components/modules/Dfac6a2.tsx';
+import Faac3d from '../components/modules/Faac3d.tsx';
+import Cc0769 from '../components/modules/Cc0769.tsx';
+import X30e8 from '../components/modules/X30e8.tsx';
+const schemaData = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://sellyourstufftoday.bid/#website",
+      "url": "https://sellyourstufftoday.bid",
+      "name": "business site",
+      "description": "A site that deals with information about businesses",
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://sellyourstufftoday.bid/#organization",
+      "name": "business site",
+      "url": "https://sellyourstufftoday.bid",
+      "description": "A site that deals with information about businesses"
+    },
+    {
+      "@type": "AboutPage",
+      "@id": "https://sellyourstufftoday.bid/about#webpage",
+      "url": "https://sellyourstufftoday.bid/about",
+      "name": "About Us - Business Site | Our Mission",
+      "description": "Learn about Business Site's mission to provide top-tier business information. Discover our story, values, and commitment to empowering businesses.",
+      "isPartOf": {
+        "@id": "https://sellyourstufftoday.bid/#website"
+      },
+      "about": {
+        "@id": "https://sellyourstufftoday.bid/#organization"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://sellyourstufftoday.bid/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "About Us",
+          "item": "https://sellyourstufftoday.bid/about"
+        }
+      ]
+    }
+  ]
+};
+
+---
+
+<Layout
+  
+  title="About Us - Business Site | Our Mission"
+  description="Learn about Business Site\'s mission to provide top-tier business information. Discover our story, values, and commitment to empowering businesses."
+  keywords={["about business site", "business information provider", "company mission", "business resources team", "expert insights"]}
+  ogTitle="About Business Site - Our Story"
+  ogDescription="Meet the team dedicated to sharing invaluable business insights. We\'re here to help entrepreneurs thrive with reliable information."
+  ogImage="https://imagedelivery.net/W0Tyu0H3jD0178dqoxnJSA/362bd3b9-f726-4e80-b33b-4cfa8283a500/public"
+  canonical="https://sellyourstufftoday.bid/about"
+  schema={schemaData}
+>
+  <J6e69d0 client:load currentPath="/about" activeLinkStyle="background" transition:persist="nav" />
+  <F6c5f client:load />
+  <Dfac6a2 client:load />
+  <Faac3d client:load />
+  <Cc0769 client:load />
+  <X30e8 client:load transition:persist="footer" />
+</Layout>
